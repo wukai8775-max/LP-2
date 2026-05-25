@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "xlsx": "npm:xlsx@0.18.5"
+  },
+  "compilerOptions": {
+    "lib": ["deno.ns", "dom", "dom.iterable"],
+    "strict": true
+  }
+}
